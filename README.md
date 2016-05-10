@@ -16,7 +16,7 @@ Test case for: [rollup #616](https://github.com/rollup/rollup/issues/616)
  
 Rollup is effectively called with:
 
-```javscript
+```javascript
 let options = {
     entry: '/Users/kross/projects/test-rollup-616-babel-polyfill/js/index.js',
     sourceMap: true,
