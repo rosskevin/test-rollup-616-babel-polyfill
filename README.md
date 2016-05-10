@@ -2,7 +2,9 @@
 
 Test case for: [rollup #616](https://github.com/rollup/rollup/issues/616)
 
-Demo: http://rosskevin.github.io/test-rollup-616-babel-polyfill/
+[Demo](http://rosskevin.github.io/test-rollup-616-babel-polyfill/) 
+  - Chrome OSX works
+  - Firefox OSX fails
 
 ## Install
 1. `npm install -g gulpjs/gulp-cli#4.0`
